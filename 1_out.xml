@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="360">
+      <start pan="195" fov="70" tilt="12.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:03:01 20:17:05" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="вход" target="169/-11/65" url="{node2}" id="Poly01">
+        <vertex pan="-157.909" tilt="12.6743"/>
+        <vertex pan="-171.187" tilt="12.7006"/>
+        <vertex pan="-171.731" tilt="-25.7456"/>
+        <vertex pan="-157.637" tilt="-25.9865"/>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="0" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Из кинофильма Усатый нянь - Мелодия.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/1_o_0.jpg" tile5url="images/1_o_5.jpg" tilesize="2999" tile4url="images/1_o_4.jpg" tile3url="images/1_o_3.jpg" tilescale="1.003334444814938" tile2url="images/1_o_2.jpg" tile1url="images/1_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:03:01 12:30:03" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot title="выход" target="18.5/-1/65" url="{node1}" id="Poly01">
+        <vertex pan="-0.147244" tilt="9.476710000000001"/>
+        <vertex pan="-16.8915" tilt="8.783020000000001"/>
+        <vertex pan="-16.0839" tilt="-34.2638"/>
+        <vertex pan="-0.346056" tilt="-34.4441"/>
+      </polyhotspot>
+      <polyhotspot title="Игрушки" target="270.5/-8.5/65" url="{node5}" id="Poly02">
+        <vertex pan="-96.6705" tilt="11.3595"/>
+        <vertex pan="-116.351" tilt="10.5002"/>
+        <vertex pan="-117.11" tilt="-30.0867"/>
+        <vertex pan="-97.55070000000001" tilt="-32.2954"/>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="1" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Из кинофильма Усатый нянь - Мелодия.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/4_o_0.jpg" tile5url="images/4_o_5.jpg" tilesize="2999" tile4url="images/4_o_4.jpg" tile3url="images/4_o_3.jpg" tilescale="1.003334444814938" tile2url="images/4_o_2.jpg" tile1url="images/4_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:03:01 13:35:29" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="346/-6/65" pan="-0.725818" skinid="" url="{node6}" id="Point01" tilt="-4.78738"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="0" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Из кинофильма Усатый нянь - Мелодия.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/6_o_0.jpg" tile5url="images/6_o_5.jpg" tilesize="2999" tile4url="images/6_o_4.jpg" tile3url="images/6_o_3.jpg" tilescale="1.003334444814938" tile2url="images/6_o_2.jpg" tile1url="images/6_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:03:01 14:27:09" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="357.5/-9.5/65" pan="-10.5347" skinid="" url="{node5}" id="Point01" tilt="-5.72018"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="0" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Из кинофильма Усатый нянь - Мелодия.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/7_o_0.jpg" tile5url="images/7_o_5.jpg" tilesize="2999" tile4url="images/7_o_4.jpg" tile3url="images/7_o_3.jpg" tilescale="1.003334444814938" tile2url="images/7_o_2.jpg" tile1url="images/7_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:03:01 14:50:32" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="178/-14/65" pan="-174.933" skinid="" url="{node4}" id="Point01" tilt="-3.86489"/>
+      <hotspot title="" target="233/-5/65" pan="-87.1018" skinid="" url="{node6}" id="Point02" tilt="-5.36609"/>
+      <polyhotspot title="" target="88/-7/65" url="{node2}" id="Poly01">
+        <vertex pan="88.24" tilt="24.368"/>
+        <vertex pan="56.0041" tilt="19.0411"/>
+        <vertex pan="57.5475" tilt="-35.6087"/>
+        <vertex pan="86.70359999999999" tilt="-43.5455"/>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="0" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Из кинофильма Усатый нянь - Мелодия.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/9_o_0.jpg" tile5url="images/9_o_5.jpg" tilesize="2999" tile4url="images/9_o_4.jpg" tile3url="images/9_o_3.jpg" tilescale="1.003334444814938" tile2url="images/9_o_2.jpg" tile1url="images/9_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2015:03:01 15:21:15" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="75/-6.5/65" pan="55.525" skinid="" url="{node5}" id="Point01" tilt="-3.58527"/>
+      <hotspot title="" target="163/-8.5/65" pan="153.729" skinid="" url="{node3}" id="Point02" tilt="-2.95124"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="0" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Из кинофильма Усатый нянь - Мелодия.mp3"/>
+      </sound>
+    </media>
+    <input tile0url="images/11_o_0.jpg" tile5url="images/11_o_5.jpg" tilesize="2999" tile4url="images/11_o_4.jpg" tile3url="images/11_o_3.jpg" tilescale="1.003334444814938" tile2url="images/11_o_2.jpg" tile1url="images/11_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="1" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="3" sensitivity="8"/>
+  </panorama>
+</tour>
